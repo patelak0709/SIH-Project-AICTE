@@ -1,0 +1,6 @@
+{
+  "name": "AICTE Approval Workflow & Compliance System",
+  "description": "Automated administrative workflows, EVC scheduling, lease expiry tracking, escalation management, and AI-assisted compliance monitoring for AICTE approval processes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
